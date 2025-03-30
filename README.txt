@@ -1,2 +1,1 @@
-Mój pusty readme.
-Witam.
+Pliki przedstawiają std::string w c++.
