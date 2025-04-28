@@ -1,0 +1,1 @@
+Pliki przedstawiają std::string w c++.
